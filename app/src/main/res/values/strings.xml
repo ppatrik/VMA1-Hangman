@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="insertCharacter">Zadajte písmeno</string>
+    <string name="defaultText">_ _ _ _ _ _ _ _ _ _</string>
+</resources>
